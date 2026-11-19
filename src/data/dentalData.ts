@@ -206,7 +206,7 @@ export const FUNNEL_STAGES: FunnelStageData[] = [
 
 export const DOCTORS_ON_DUTY = [
   {
-    name: 'Dr. Vikram Singhal, MDS',
+    name: 'Dr. Jhon, MDS',
     specialty: 'Orthodontics & Certified Aligner Specialist',
     room: 'Op-1 (Digital Scanner Suite)',
     availability: 'Chairside Available',

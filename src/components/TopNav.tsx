@@ -29,7 +29,7 @@ export const TopNav: React.FC<TopNavProps> = ({
         </button>
 
         <h1 className="text-base sm:text-lg font-bold text-slate-800 tracking-tight">
-          Good afternoon, <span className="text-slate-900">Dr. Y Nandish!</span>
+          Good afternoon, <span className="text-slate-900">Dr. Jhon!</span>
         </h1>
       </div>
 
@@ -63,9 +63,9 @@ export const TopNav: React.FC<TopNavProps> = ({
           <span>0</span>
         </div>
 
-        {/* User avatar circle with 'Y' matching screenshot */}
+        {/* User avatar circle with 'J' */}
         <div className="w-9 h-9 rounded-full bg-[#00897b] text-white font-bold flex items-center justify-center text-sm shadow-xs border-2 border-white ring-2 ring-emerald-100">
-          Y
+          J
         </div>
       </div>
     </header>
